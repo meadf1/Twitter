@@ -1,0 +1,26 @@
+{
+"name": "TwitterPluh App Repo",
+  "identifier": "com.atebits.Tweetie2",
+  "iconURL": "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/main/Branding/Icon.png",
+  "apps": [
+    {
+      "name": "Twitter",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "Mead",
+      "iconURL": "https://raw.githubusercontent.com/actuallyaridan/NeoFreeBird/main/Branding/Icon.png",
+      "localizedDescription": "A mod for Twitter",
+      "subtitle": "A mod for Twitter",
+      "tintColor": "7289da",
+      "versions": [
+        {
+          "version": "11.5.5",
+          "date": "2025-06-27",
+          "size": 158987417,
+          "downloadURL": "https://github.com/meadf1/TwitterPluh/releases/download/v11.5.5/Twitter.ipa"
+        }
+      ],
+      "appPermissions": {}
+    }
+  ],
+  "news": []
+}
